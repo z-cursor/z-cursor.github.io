@@ -35,9 +35,13 @@ paginate_path: /page:num/
 # Gitalk
 gitalk:
   clientID: Ov23li9UrYP76u2jMFYg
-  clientSecret: b9e80d4e73c5b8221eab2cef3460cca55f00db41
-  repo: z-cursor.github.io
+  clientSecret: 35be8273f4f13ede5ea150d282642a2344c6fa0d
+  repo: blog-comments
   owner: z-cursor
+  admin: ['z-cursor']
+  id: location.pathname 
+  language: 'zh-CN'
+  distractionFreeMode: false  
 
 # The release of Jekyll Now
 version: v1.2.0
