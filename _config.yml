@@ -34,8 +34,8 @@ paginate_path: /page:num/
 
 # Gitalk
 gitalk:
-  clientID: Iv23liK7yKByZDV1wBQd
-  clientSecret: 5a4e6a0269a519f5d006fe44f446a05367e8e661
+  clientID: Ov23liKgTCBsh2vLtHpE
+  clientSecret: f5fd53c58ffaca214bced3cb8ff3db6c3a395fdc
   repo: z-cursor.github.io
   owner: z-cursor
   admin: ['z-cursor']
